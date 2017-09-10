@@ -18,3 +18,5 @@ instagram_username: kchappers58
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-slate
