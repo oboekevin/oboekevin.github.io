@@ -20,6 +20,6 @@ instagram_username: kchappers58
 markdown: kramdown
 # Added 9-19-17
 include: ["_pages"]
-exclude: ["README.md"]
+# exclude: ["README.md"]
 
 # theme: jekyll-theme-slate

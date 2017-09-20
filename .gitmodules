@@ -1,3 +1,4 @@
 [submodule "_pages/Three"]
 	path = _pages/Three
 	url = https://github.com/oboekevin/Three.git
+	branch = for_jekyll
