@@ -5,11 +5,10 @@ permalink: /about/
 ---
 
 - Born & raised in Alexandria, Virginia.
-- Currently a sophomore CS major at the University of Pittsburgh. I'm also going after:
+- Currently a senior CS major at the University of Pittsburgh. I'm also going after:
 	- Minor in French
-	- Minor in Linguistics
-	- Certificate in ASL
+	- Minor in Korean
 - Hobbies include:
-	- Color guard! Recently, I've been a member of Top Hats, Colts, and now Juxtaposition.
+	- Color guard! Recently, I've been a member of Top Hats, Colts, Juxtaposition, and the Bluecoats.
 	- Origami--especially flowers.
-	- Language learning! Near-fluent in French, working on ASL & Korean.
+	- Language learning! Near-fluent in French, working on Korean.

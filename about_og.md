@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About Jekyll
 permalink: /about_og/
 ---
 
