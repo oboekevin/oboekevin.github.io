@@ -12,14 +12,18 @@ description: > # this means to ignore newlines until "baseurl:"
   The life and work of Kevin Chaplin.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oboekevin.github.io" # the base hostname & protocol for your site
-twitter_username: kchappers58
+# twitter_username: kchappers58
 github_username:  oboekevin
-instagram_username: kchappers58
+# instagram_username: kchappers58
+linkedin_username: "kevin-chaplin-0a8748176"
+# "https://linkedin.com/in/kevin-chaplin-0a8748176/"
 
 # Build settings
 markdown: kramdown
 # Added 9-19-17
 include: ["_pages"]
 exclude: ["README.md"]
+# Added 2020-12-30
+encoding: utf-8
 
 # theme: jekyll-theme-slate
