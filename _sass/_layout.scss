@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid $grey-color-dark;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -102,7 +102,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $grey-color-dark;
     padding: $spacing-unit 0;
 }
 
@@ -243,4 +243,27 @@
             font-size: 18px;
         }
     }
+}
+
+
+// Grids
+.grid-row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    width: 100%;
+}
+
+.grid-column {
+    flex: 25%;
+    padding: 0 4px;
+}
+
+// #primary.grid-column {
+//     flex: 50%;
+// }
+
+.grid-column img, iframe {
+    margin-top: 8px;
+    vertical-align: middle;
 }
